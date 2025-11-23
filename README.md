@@ -59,35 +59,12 @@ El análisis se centra en un portafolio diversificado compuesto por:
 
 ---
 
-## 🚀 Instalación y Uso
-
-Si deseas replicar este análisis en tu entorno local:
-
-1.  **Clonar el repositorio:**
-    ```bash
-    git clone [https://github.com/TU_USUARIO/NOMBRE_DEL_REPOSITORIO.git](https://github.com/TU_USUARIO/NOMBRE_DEL_REPOSITORIO.git)
-    ```
-
-2.  **Instalar dependencias:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-    *(Las librerías principales son: pandas, numpy, yfinance, matplotlib, xlsxwriter)*
-
-3.  **Ejecutar el Pipeline:**
-    Para correr todo el análisis, generar las imágenes y el Excel nuevo:
-    ```bash
-    python src/main.py
-    ```
-
----
-
 ## 👤 Autor
 
 **Erick R. Solsol Alván**
 *Estudiante de Economía | Especialización en Finanzas y Data Science*
 
-[LinkedIn](TU_LINK_DE_LINKEDIN) | [Portafolio Web](https://TU_USUARIO.github.io)
+[LinkedIn](https://www.linkedin.com/in/erick-solsol/) | [Portafolio Web](https://erickecon.github.io/)
 
 - Los datos crudos se colocan en `data/raw/` y no se versionan por defecto.
 - `data/processed/` puede contener artefactos derivados que sí quieras versionar.
