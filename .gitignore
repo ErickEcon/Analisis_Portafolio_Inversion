@@ -1,0 +1,18 @@
+# Entornos virtuales (Lo que pediste)
+venv/
+.venv/
+env/
+
+# Archivos temporales de Python (Basura automática)
+__pycache__/
+*.py[cod]
+
+# Archivos temporales de Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Archivos de sistema (Si usas Mac o Windows crean estos archivos ocultos)
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración de VS Code (Opcional, si no quieres compartir tu config)
+.vscode/
